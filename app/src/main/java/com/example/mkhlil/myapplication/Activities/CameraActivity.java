@@ -22,7 +22,7 @@ public class CameraActivity extends AppCompatActivity {
     private Camera mCamera = null;
     private CameraView mCameraView = null;
 
-    //private ImageView myCameraPreview = null;
+    //private ImageView myCameraPreview = null;;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
